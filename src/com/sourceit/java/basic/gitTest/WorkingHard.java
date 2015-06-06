@@ -6,7 +6,7 @@ public class WorkingHard {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("New text");
+		System.out.println("Hi");
 	}
 
 }
